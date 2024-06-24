@@ -1,0 +1,2 @@
+bucket = "terraform-dev-state-bucket-gov"
+key = "eks/terraform.tfstate"
